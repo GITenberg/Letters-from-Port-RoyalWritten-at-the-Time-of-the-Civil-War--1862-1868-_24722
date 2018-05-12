@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26698'
     url: http://www.gutenberg.org/2009/agents/26698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24722#Letters-from-Port-RoyalWritten-at-the-Time-of-the-Civil-War--1862-1868-
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-01'
 gutenberg_type: Text
